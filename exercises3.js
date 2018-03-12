@@ -1,5 +1,3 @@
-// This took me like 2hours to solve... 
-
 
 /*
  * Programming Quiz: Build A Triangle (5-3)
